@@ -6,3 +6,4 @@
 # * Кузьминова уважаю
 # * Бодрову обожаю <З
 # [всем сюда](https://github.com "это ссылка на гитхаб")
+![alt_text] (https://cdn.shopify.com/s/files/1/1061/1924/files/Thinking_Face_Emoji.png?9898922749706957214)
